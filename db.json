@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "samsung galaxy A30",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 8500,
+      "comment": "it's brand new",
+      "date": "2022-08-12T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "MI a3",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 14000,
+      "comment": "it's brand new",
+      "date": "2022-08-12T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "samsung s22 ultra",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 120000,
+      "comment": "brand new",
+      "date": "2022-08-12T18:30:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
